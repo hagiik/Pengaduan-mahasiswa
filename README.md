@@ -1,4 +1,4 @@
-# pengaduan-masyarakat
+# pengaduan-mahasiswa
 
 
 ![Alt text](assets/uploads/pengaduan-img.png?raw=true 'Title')
